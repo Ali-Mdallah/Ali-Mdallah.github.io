@@ -73,7 +73,7 @@ nav > ul li:hover .sous{
 }
 
 main {
-  /*background: #CC99FF;*/
+  background: #CC99FF;
   display: flex;
   justify-content: center;
 }
