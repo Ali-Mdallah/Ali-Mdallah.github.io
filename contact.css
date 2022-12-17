@@ -83,6 +83,7 @@ main {
   border: 1px solid;
   border-radius: 8px;
   padding: 0 50px 0 50px;
+  background-color: white;
 }
 
 .contactez-nous > h1 {
