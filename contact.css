@@ -3,6 +3,7 @@
     margin: 0px;
     padding: 0px;
     font-family: Avenir, sans-serif;
+    background-color:#F0FFFF;
 }
 
 nav{
@@ -73,7 +74,6 @@ nav > ul li:hover .sous{
 }
 
 main {
-  background: #CC99FF;
   display: flex;
   justify-content: center;
 }
@@ -83,7 +83,6 @@ main {
   border: 1px solid;
   border-radius: 8px;
   padding: 0 50px 0 50px;
-  background: white;
 }
 
 .contactez-nous > h1 {
